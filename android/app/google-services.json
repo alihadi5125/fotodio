@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "491724610176",
+    "project_id": "photodioverfication",
+    "storage_bucket": "photodioverfication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491724610176:android:aacd62526e03f5b0d5a465",
+        "android_client_info": {
+          "package_name": "com.example.fotodio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491724610176-v5ub3g0rdbn9pndev2o5lfurmlcj2kuv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fotodio",
+            "certificate_hash": "d34df38e6006e023a48d72ca966dcb62c84e840b"
+          }
+        },
+        {
+          "client_id": "491724610176-kcches0p6qdaivf810o2hv50j2d742lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_aKICofvIOI3SQoSaMBkOAMudyrbPsBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491724610176-kcches0p6qdaivf810o2hv50j2d742lv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
